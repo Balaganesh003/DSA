@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+// List has to be sorted before using binary search 
 
 int BinarySearch( int arr[],int x, int low,int high)
 {
@@ -19,8 +20,8 @@ int BinarySearch( int arr[],int x, int low,int high)
 int main()
 {
     int arr1[]={1,2,3,4,5,6,7,8,9,10};
-    int x=5;
-    int low=0;
+    int x=5; // element to find
+    int low=0; 
     int high=9;  // size of array -1
     printf("%d",BinarySearch(arr1,x,low,high));
     return 0;
