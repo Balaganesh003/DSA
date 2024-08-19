@@ -1,6 +1,3 @@
-Certainly. I'll create a detailed explanation and documentation in README.md format for learning purposes. This will cover the LinkedList implementation you've provided.
-
-```markdown
 # Linked List Implementation in Python
 
 This README provides a detailed explanation of a Linked List implementation in Python. The code includes a `Node` class and a `LinkedList` class with various methods for manipulating the list.
@@ -219,6 +216,5 @@ ll.display()
 ```
 
 This example creates a linked list with values [1, 2, 3, 4], inserts "hello" after the value 1, and then displays the resulting list.
-```
 
-This README provides a comprehensive explanation of the LinkedList implementation, breaking down each method and its functionality. It serves as a learning resource for understanding how linked lists work and how to implement various operations on them in Python.
+
